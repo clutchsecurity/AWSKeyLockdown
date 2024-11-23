@@ -1,5 +1,9 @@
 <p align="center">
-  <img alt="Clutch Logo" src="https://github.com/user-attachments/assets/dad3f718-7e60-488b-92e0-61ee71b46837" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/803aaa10-e82d-415d-b00d-1f2076854ce3">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e8cbf94f-c1a2-4c11-84fb-ab5dd4614834">
+    <img alt="Clutch Security" src="https://github.com/user-attachments/assets/803aaa10-e82d-415d-b00d-1f2076854ce3">
+  </picture>
   <h2 align="center">AWSKeyLockdown</h2>
 </p>
 
